@@ -1,4 +1,4 @@
-# httpget_TIVA4C
+# Tiva TM4C1294NCPDT IOT Work
 IOT Work with TIVA TM4C
 
 In this work you can find out an IOT implementation with TI TivaWare TM4C board.
