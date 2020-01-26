@@ -25,7 +25,7 @@ This program aiming to creating a system which requirements listed as below ;
 
 -**This sensors available on BOOSTXL SENSHUB.If you have not this part , this program couldn't work.**
 
--To get the temperature and pressure values from the internet , system use the ethernet connection.So , you have to connect the Tiva tm4c1294ncpdt port with to the Wi-Fi modem LAN port.
+-To get the temperature and pressure values from the internet , system use the ethernet connection.So , you have to connect the Tiva tm4c1294ncpdt's port with  the Wi-Fi modem's LAN port.
 
 
 To get more information about usage of program please contact me.
